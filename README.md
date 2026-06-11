@@ -33,13 +33,14 @@ Brain Tumor Detection AI is a deep learning-based medical imaging application th
 
 ## 📷 Screenshots
 
-### Home Page
 
-(Add screenshot here)
 
-### MRI Upload
+<img width="1914" height="916" alt="Home jpg" src="https://github.com/user-attachments/assets/3c011f1a-818b-4b02-a259-81106906ad3c" />
+<img width="1907" height="938" alt="tumor detected" src="https://github.com/user-attachments/assets/c8915690-158e-4b7d-ac7e-28ea6422fa63" />
+<img width="1917" height="936" alt="No tumor detected" src="https://github.com/user-attachments/assets/f2f401e5-91c1-4d03-bd0d-bf73861b9a71" />
 
-(Add screenshot here)
+
+
 
 ### Prediction Result
 
