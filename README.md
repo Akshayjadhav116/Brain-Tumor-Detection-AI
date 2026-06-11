@@ -1,35 +1,87 @@
 # 🧠 Brain Tumor Detection AI
 
-AI-powered Brain Tumor Detection System using CNN, TensorFlow, OpenCV and Streamlit.
+An AI-powered Brain Tumor Detection System built using TensorFlow, OpenCV, and Streamlit. This application analyzes MRI brain scan images and predicts whether a tumor is present, along with a confidence score.
 
-## Features
-- Upload MRI brain scans
-- Detect possible brain tumors
-- Confidence percentage display
-- Tumor information and treatment guidance
-- Modern Streamlit interface
+## 🚀 Live Demo
 
-## Tech Stack
-- Python
-- TensorFlow / Keras
-- OpenCV
-- NumPy
-- Streamlit
+https://brain-tumor-detection--ai.streamlit.app
 
-## Project Demo
+## 📌 Project Overview
 
-Upload an MRI image and the model predicts:
-- Tumor Detected
-- No Tumor Detected
-- Confidence Score
+Brain Tumor Detection AI is a deep learning-based medical imaging application that uses a Convolutional Neural Network (CNN) to analyze MRI scans. The model processes uploaded MRI images and provides real-time predictions through an interactive Streamlit web application.
 
-## Developer
+## ✨ Features
 
-Akshay Jadhav  
-CSE-AIML  
-GITAM University Bengaluru
+* Upload MRI brain scan images
+* Real-time tumor detection
+* Confidence score visualization
+* User-friendly Streamlit interface
+* Publicly deployed web application
+* GitHub-hosted source code
 
-## Disclaimer
+## 🛠 Tech Stack
 
-This project is intended for educational and research purposes only.
-It should not be used as a substitute for professional medical diagnosis.
+* Python
+* TensorFlow / Keras
+* OpenCV
+* NumPy
+* Streamlit
+
+## 📷 Screenshots
+
+### Home Page
+
+(Add screenshot here)
+
+### MRI Upload
+
+(Add screenshot here)
+
+### Prediction Result
+
+(Add screenshot here)
+
+## 📂 Project Structure
+
+Brain-Tumor-Detection-AI/
+
+├── app.py
+
+├── requirements.txt
+
+├── runtime.txt
+
+├── README.md
+
+├── Braintumor.ipynb
+
+└── brain_tumor_weights.weights.h5
+
+## ▶️ Installation
+
+1. Clone the repository
+
+git clone https://github.com/Akshayjadhav116/Brain-Tumor-Detection-AI.git
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the application
+
+streamlit run app.py
+
+## 📊 Sample Output
+
+* Prediction: Tumor Detected / No Tumor Detected
+* Confidence Score: Displayed as percentage
+
+## 👨‍💻 Developer
+
+Akshay Jadhav
+
+CSE-AIML, GITAM University Bengaluru
+
+## 📜 License
+
+This project is created for educational and research purposes.
