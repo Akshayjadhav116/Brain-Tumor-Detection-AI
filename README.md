@@ -2,9 +2,13 @@
 
 An AI-powered Brain Tumor Detection System built using TensorFlow, OpenCV, and Streamlit. This application analyzes MRI brain scan images and predicts whether a tumor is present, along with a confidence score.
 
-## 🚀 Live Demo
+# 🧠 Brain Tumor Detection AI
 
+🔗 Live Demo:
 https://brain-tumor-detection--ai.streamlit.app
+
+💻 GitHub Repository:
+https://github.com/Akshayjadhav116/Brain-Tumor-Detection-AI
 
 ## 📌 Project Overview
 
